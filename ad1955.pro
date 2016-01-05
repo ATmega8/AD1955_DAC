@@ -1,4 +1,4 @@
-update=2016年01月05日 星期二 10时16分08秒
+update=2016年01月05日 星期二 12时57分09秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=118
 [eeschema]
 version=1
 LibDir=
@@ -75,3 +65,13 @@ LibName33=/home/life/KICAD/lib/ne5534
 LibName34=/home/life/KICAD/lib/jack_3p
 LibName35=/home/life/KICAD/lib/TX0RX0-Kicad-Libraries/symbols/TX0RX0
 LibName36=/home/life/KICAD/lib/TX0RX0-Kicad-Libraries/symbols/SparkFun
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=118
